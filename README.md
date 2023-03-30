@@ -27,3 +27,7 @@ Il vous faut un environnement de développement gérant le format ELF 32 bits, c
 Si vous utilisez le gestionnaire de paquets Homebrew, il suffit de lancer la commande suivante pour installer tout ce qu'il faut : brew install i686-elf-binutils i686-elf-gcc i386-elf-gdb qemu.
 
 Sinon, vous pouvez télécharger cette archive testée sous Yosemite et la décompresser dans le répertoire /usr/local.
+
+# Petite démonstration très simple :
+
+![Alt Text](https://github.com/adrienLLR/projet-OS/blob/main/projet-os.gif)
